@@ -5,7 +5,7 @@ function About() {  return (
     <div className="about-section">
       <div className="about-content">
         <div className="about-header">
-          <h1 className="about-title">about</h1>
+          <h1 className="about-title">About</h1>
           <p className="about-description">Motivated and detail-oriented BCA graduate passionate about software development,<br/> backend engineering, and DevOps. 
             Seeking a Software Developer / Developer Trainee role <br/>
             where I can apply my skills in Java, Python, DevOps workflows, and cloud-based CI/CD practices.</p>
@@ -14,8 +14,8 @@ function About() {  return (
           <li className="skill-item">
             <h2 className="skill-title">Education</h2>
             <p className="skill-description">Bachelor of Computer Applications (BCA)<br/> 
-              Bengaluru City University — 2022–2025 (Completed)<br/>
-              cgpa : - 8.21</p>
+              Dr.Manmohan Singh Bengaluru City University — 2023–2027<br/>
+            </p>
           </li>
           <li className="skill-item">
             <h2 className="skill-title">Experience</h2>

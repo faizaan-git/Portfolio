@@ -7,10 +7,10 @@ function Profile() {
   return (
     <div className="profile-container">
       <div className="intro">
-        <h3 className="name">Hello, I'm Santhosh M,</h3>
+        <h3 className="name">Hello, I'm Mohammed Faizaan,</h3>
         <h1 className="role">Software</h1>
         <h1 className="role">Developer</h1>
-        <h3 className="email">santhoshmb08@gmail.com</h3>
+        <h3 className="email">faizaan.desk@gmail.com</h3>
         <a href="/Resume.pdf" download="Resume.pdf" className="resume-link">
           <button className="resume">Resume</button>
         </a>
